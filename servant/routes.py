@@ -15,5 +15,5 @@ async def index(request):
     model = request.app['model']
     result = model.predict(items)
     return web.json_response({
-        'result': list(result)
+        'items': list(result)
     })
