@@ -1,9 +1,8 @@
 aiohttp==3.4.4
 aiohttp-apispec==0.7.6
+aiohttp-swagger==1.0.5
 
 journeyman-nn==0.0.1
 
 gunicorn==19.9.0
 uvloop==0.11.3
-
-git+https://github.com/bureaucratic-labs/aiohttp-swagger.git#egg=aiohttp_swagger
