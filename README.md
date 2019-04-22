@@ -11,6 +11,7 @@ HTTP API for [Journeyman](https://github.com/bureaucratic-labs/journeyman) model
 $ export MODEL_PARAMS_PATH=/path/to/params.json
 $ export MODEL_PREPROCESSOR_PATH=/path/to/preprocessor.pickle
 $ export MODEL_PATH=/path/to/model.h5
+$ export SENTRY_DSN=https://...  # optional
 ```
 
 # Start

@@ -6,3 +6,5 @@ journeyman-nn==0.0.1
 
 gunicorn==19.9.0
 uvloop==0.11.3
+
+sentry-sdk==0.7.10
